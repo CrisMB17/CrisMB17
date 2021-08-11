@@ -56,7 +56,7 @@
 
 <a href="https://www.instagram.com/xxtivn/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-xxtivn-262626?style=flat-square&logo=instagram"></a>
 
-<a href="https://twitter.com/xxtivn_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-xxtivn%26-262626?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/xxtivn_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-xxtivn-262626?style=flat-square&logo=twitter"></a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cristianmartinez1700@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cristianmartinez1700@gmail.com-262626?style=flat-square&logo=gmail"></a>
 
