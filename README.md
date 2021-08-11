@@ -9,7 +9,7 @@
 
 - 🎓 &nbsp; Studying Mechatronic engineer at National University of Colombia.
 
-- 🌱 &nbsp; In process of learning about Machine Learning.
+- 🌱 &nbsp; In process of learning about Machine Learning and AI.
 
 - ✍️ &nbsp; Trying to learn and improve every day.
 
