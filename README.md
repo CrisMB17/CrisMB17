@@ -21,19 +21,13 @@
 
 - 💻 &nbsp; Python | Java 
 
-<!--
-
-- 🖥 &nbsp; Illustrator| Photoshop
-
--->
-
 
 
 <h3>🧩 To Learn</h3>
 
 - 🔧 &nbsp; JavaScript | Django | Flask
 
-<h3>🔊 Lenguages</h3>
+<h3>🔊 Languages</h3>
 
 - 🔤 &nbsp; Spanish | English
 
