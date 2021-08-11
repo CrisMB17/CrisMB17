@@ -19,13 +19,13 @@
 
 
 
-- 💻 &nbsp; Python | Java 
+![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=Python&logoColor=FFD43B) ![Java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=Java&logoColor=007396) 
 
 
 
 <h3>🧩 To Learn</h3>
 
-- 🔧 &nbsp; JavaScript | Django | Flask
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=JavaScript&logoColor=F7DF1E) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=FFFFFF)  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=FFFFFF) ![VsCode](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=FFFFFF) 
 
 <h3>🔊 Languages</h3>
 
