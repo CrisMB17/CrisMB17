@@ -21,7 +21,7 @@
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-262626?style=flat&logo=Python&logoColor=306998"></a>
 <a href="https://www.oracle.com/co/java/technologies/javase-downloads.html"><img alt="Java" src="https://img.shields.io/badge/-Java-262626?style=flat&logo=Java&logoColor=f89820"></a> 
 <a href="https://www.jetbrains.com/es-es/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-262626?style=flat&logo=IntelliJIDEA&logoColor=000000"></a> 
-<a href="hhttps://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-262626?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC"></a> 
+<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-262626?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC"></a> 
 <a href="https://www.jetbrains.com/es-es/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-262626?style=flat&logo=PyCharm&logoColor=000000"></a> 
 <a href="https://netbeans.apache.org/"><img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-262626?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=FFFFF"></a>
 <a href="https://www.adobe.com/la/products/photoshop.html"><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-262626?style=flat&logo=Adobe%20Photoshop&logoColor=31A8FF"></a>
