@@ -53,7 +53,7 @@
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cristianmartinez1700@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cristianmartinez1700@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-<a href="https://discord.com"><img alt="Discord" src="https://img.shields.io/badge/Discord-𝕮𝖗𝖎$%20%239409-black?style=flat-square&logo=discord"></a>
+<a href="https://discord.gg/user/𝕮𝖗𝖎$#9409"><img alt="Discord" src="https://img.shields.io/badge/Discord-𝕮𝖗𝖎$%20%239409-black?style=flat-square&logo=discord"></a>
 
 </p>
 
