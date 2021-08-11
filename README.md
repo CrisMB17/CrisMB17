@@ -1,7 +1,7 @@
 ### Hi there 👋<h2> I'm Cristian</h2>
 
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3>  •👦🏻 About Me </h3>
 
 
 
@@ -29,9 +29,13 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🧩 To Learn</h3>
 
 - 🔧 &nbsp; JavaScript | Django | Flask
+
+<h3>🔊 Lenguages</h3>
+
+- 🔤 &nbsp; Spanish | English
 
 
 
