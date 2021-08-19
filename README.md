@@ -33,7 +33,9 @@
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-262626?style=flat&logo=JavaScript&logoColor=F7DF1E"></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" src="https://img.shields.io/badge/-Flask-262626?style=flat&logo=Flask&logoColor=FFFFFF"></a>
 <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/-Django-262626?style=flat&logo=Django&logoColor=092E20"></a>
-
+<a href="https://www.tensorflow.org/?hl=es-419"><img alt="TensroFlow" src="https://img.shields.io/badge/-TensorFlow-262626?style=flat&logo=TensorFlow&logoColor=FF6F00"></a>
+<a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/-Keras-262626?style=flat&logo=Keras&logoColor=D00000"></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-262626?style=flat&logo=PostgreSQL&logoColor=4169E1"></a>
 <h3>🔊 Languages</h3>
 
 - 🔤 &nbsp; Spanish | English
