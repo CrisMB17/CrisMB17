@@ -62,7 +62,7 @@
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cristianmartinez1700@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cristianmartinez1700@gmail.com-262626?style=flat-square&logo=gmail"></a>
 
-<a href="https://discord.gg/user/Cr1z#9409"><img alt="Discord" src="https://img.shields.io/badge/Discord-Cr1z%239409-262626?style=flat-square&logo=discord"></a>
+<a href="https://discord.gg/user/cr1z#9409"><img alt="Discord" src="https://img.shields.io/badge/Discord-cr1z%239409-262626?style=flat-square&logo=discord"></a>
 
 </p>
 
