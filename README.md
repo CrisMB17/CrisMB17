@@ -56,13 +56,9 @@
 
 <p align="center">
 
-<a href="https://www.instagram.com/xxtivn/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-xxtivn-262626?style=flat-square&logo=instagram"></a>
-
-<a href="https://twitter.com/xxtiivn"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-xxtiivn-262626?style=flat-square&logo=twitter"></a>
-
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cristianmartinez1700@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cristianmartinez1700@gmail.com-262626?style=flat-square&logo=gmail"></a>
 
-<a href="https://discord.gg/user/cr1z#9409"><img alt="Discord" src="https://img.shields.io/badge/Discord-cr1z%239409-262626?style=flat-square&logo=discord"></a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cmartinezbo@unal.edu.co"><img alt="Email" src="https://img.shields.io/badge/Email-cmartinezbo@unal.edu.co-262626?style=flat-square&logo=gmail"></a>
 
 </p>
 
